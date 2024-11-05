@@ -1,6 +1,6 @@
 <template>
-  <h1>Home Page</h1>
-  <div class="w3-display-container">
+  <h1 class="d-flex justify-content-center">Home Page</h1>
+  <div class="w3-display-container d-flex justify-content-center">
     <img src="../assets/hinh.png" style="width:80%">
     <div class="w3-display-topleft w3-container" style="color:white;font-size: 20pt; margin-left: 180px;">BAO LY.</div>
   </div>

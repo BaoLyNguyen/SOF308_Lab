@@ -18,8 +18,9 @@
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/lab2/bai1">Bài 1</a></li>
-              <li><a class="dropdown-item" href="#">Bài 2</a></li>
-              <li><a class="dropdown-item" href="#">Bài 3</a></li>
+              <li><a class="dropdown-item" href="/lab2/bai2">Bài 2</a></li>
+              <li><a class="dropdown-item" href="/lab2/bai3">Bài 3</a></li>
+              <li><a class="dropdown-item" href="/lab2/bai4">Bài 4</a></li>
             </ul>
           </li>
           <li class="nav-item">
