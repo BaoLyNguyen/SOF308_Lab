@@ -101,7 +101,7 @@
                                     </div>                                    
                                 </div>
                                 <div class="card p-2 d-flex flex-row align-items-start">
-                                    <img src="assets/sesameoil_300x300.jpg" alt="Sesame Oil" style="width: 50px; height: 50px; margin-right: 10px;">
+                                    <img src="../assets/sesameoil_300x300.jpg" alt="Sesame Oil" style="width: 50px; height: 50px; margin-right: 10px;">
                                     <div>
                                         <span>10 công dụng bất ngờ từ dầu dừa</span>
                                         <div>
@@ -110,7 +110,7 @@
                                     </div>                                    
                                 </div>
                                 <div class="card p-2 d-flex flex-row align-items-start">
-                                    <img src="assets/spinach_300x300.jpg" alt="Spinach" style="width: 50px; height: 50px; margin-right: 10px;">
+                                    <img src="../assets/spinach_300x300.jpg" alt="Spinach" style="width: 50px; height: 50px; margin-right: 10px;">
                                     <div>
                                         <span>Lợi ích khi ăn rau mỗi ngày</span>
                                         <div>
