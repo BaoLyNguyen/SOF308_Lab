@@ -36,23 +36,25 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
-              <i class="fa-solid fa-user"></i> Lab 4
+              <i class="fa-solid fa-user"></i> Lab 5
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Đăng nhập</a></li>
-              <li><a class="dropdown-item" href="#">Quên mật khẩu</a></li>
-              <li><a class="dropdown-item" href="#">Đăng ký thành viên</a></li>
+              <li><a class="dropdown-item" href="/lab5/bai1">Bài 1</a></li>
+              <li><a class="dropdown-item" href="/lab5/bai2">Bài 2</a></li>
+              <li><a class="dropdown-item" href="/lab5/bai3">Bài 3</a></li>
+              <li><a class="dropdown-item" href="/lab5/bai4">Bài 4</a></li>
             </ul>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-                <i class="fa-solid fa-circle-info"></i> Lab 5
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+              <i class="fa-solid fa-user"></i> Lab 6
             </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-                <i class="fa-solid fa-circle-info"></i> Lab 6
-            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/lab6/bai1">Bài 1</a></li>
+              <li><a class="dropdown-item" href="/lab6/bai2">Bài 2</a></li>
+              <li><a class="dropdown-item" href="/lab6/bai3">Bài 3</a></li>
+              <li><a class="dropdown-item" href="/lab6/bai4">Bài 4</a></li>
+            </ul>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">

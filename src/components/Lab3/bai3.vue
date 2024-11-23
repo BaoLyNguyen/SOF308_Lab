@@ -164,20 +164,17 @@
               <span class="badge bg-primary rounded-pill">99</span>
             </li>
           </ul>
-          <div class="container mt-3 nhom4">
+          <div class="container mt-3 nhom4 p-0">
             <div
               style="
                 background-color: #f3f3f3;
-                width: 415px;
-                margin-left: -12px;
-                margin-top: -8px;
                 border-top-left-radius: 10px;
                 border-top-right-radius: 10px;
               "
             >
-              <h3 class="text-info mt-2 pt-2 ps-2">Bài viết nổi bật</h3>
+              <h3 class="text-info pt-2 ps-2">Bài viết nổi bật</h3>
               <hr
-                style="color: rgba(0, 0, 0, 0.777); width: 415px"
+                style="color: rgba(0, 0, 0, 0.777);"
                 class="mb-0"
               />
             </div>
@@ -242,18 +239,15 @@
         <div>
           <div class="row p-2">
             <div class="col-6 b">
-              <div class="p-2 flex-row align-items-start nhom2">
+              <div class="p-0 flex-row align-items-start nhom2">
                 <div
                   style="
                     background-color: #f3f3f3;
-                    width: 407px;
-                    margin-left: -8px;
-                    margin-top: -16px;
                     border-top-left-radius: 5px;
                     border-top-right-radius: 5px;
                   "
                 >
-                  <h4 class="mt-2 pt-2 ps-2">
+                  <h4 class="m-0 pt-2 ps-2">
                     <a href="/lab3/bai4" class="text-decoration-none text-dark"
                       >Phương pháp tập Pilates giúp phục hồi chấn thương cột
                       sống</a
@@ -261,7 +255,7 @@
                     <i class="bi bi-chat-left-fill"></i>16
                   </h4>
                   <hr
-                    style="color: rgba(0, 0, 0, 0.777); width: 407px"
+                    style="color: rgba(0, 0, 0, 0.777);"
                     class="mb-0"
                   />
                 </div>
@@ -276,23 +270,21 @@
                   pháp hữu hiệu để phục hồi chấn thương cột sống.
                 </p>
               </div>
-              <div class="mt-2 p-2 flex-row align-items-start nhom2">
+              <div class="p-0 mt-2 flex-row align-items-start nhom2">
                 <div
                   style="
                     background-color: #f3f3f3;
-                    width: 407px;
-                    margin-left: -8px;
-                    margin-top: -16px;
+                   
                     border-top-left-radius: 5px;
                     border-top-right-radius: 5px;
                   "
                 >
-                  <h4 class="mt-2 pt-2 ps-2">
+                  <h4 class="m-0 pt-2 ps-2">
                     Tập Pilates có thể cải thiện sức khỏe tim mạch của bạn
-                    <i class="bi bi-chat-left-fill"></i>5
+                    <i class="bi bi-chat-left-fill"></i>5 <br><br>
                   </h4>
                   <hr
-                    style="color: rgba(0, 0, 0, 0.777); width: 407px"
+                    style="color: rgba(0, 0, 0, 0.777);"
                     class="mb-0"
                   />
                 </div>
@@ -305,29 +297,26 @@
                   Tập Pilates không chỉ giúp bạn có một cơ thể khỏe mạnh và linh
                   hoạt mà còn có nhiều lợi ích cho sức khỏe tim mạch. Bài viết
                   này sẽ tìm hiểu sâu hơn về tác động tích cực của việc tập
-                  Pilates đối với sức khỏe tim mạch...
+                  Pilates đối với sức khỏe tim mạch...<br>
                 </p>
               </div>
             </div>
             <div class="col-6 b">
-              <div class="p-2 flex-row align-items-start nhom2">
+              <div class="p-0 flex-row align-items-start nhom2">
                 <div
                   style="
                     background-color: #f3f3f3;
-                    width: 407px;
-                    margin-left: -8px;
-                    margin-top: -16px;
                     border-top-left-radius: 5px;
                     border-top-right-radius: 5px;
                   "
                 >
-                  <h4 class="mt-2 pt-2 ps-2">
+                  <h4 class="m-0 pt-2 ps-2">
                     Đây là những gì 1 giờ Tập Pilates có thể làm cho cơ thể của
                     bạn
                     <i class="bi bi-chat-left-fill"></i>8
                   </h4>
                   <hr
-                    style="color: rgba(0, 0, 0, 0.777); width: 407px"
+                    style="color: rgba(0, 0, 0, 0.777);"
                     class="mb-0"
                   />
                 </div>
@@ -339,26 +328,23 @@
                 <p>
                   Được thiết kế để xây dựng cơ bắp săn chắc, khỏe mạnh hơn bài
                   tập này đã trở thành một cái tên quen thuộc nhờ có rất nhiều
-                  người nổi tiếng theo dõi.<br /><br />
+                  người nổi tiếng theo dõi.<br />
                 </p>
               </div>
-              <div class="mt-2 p-2 flex-row align-items-start nhom2">
+              <div class="p-0 mt-2 flex-row align-items-start nhom2">
                 <div
                   style="
                     background-color: #f3f3f3;
-                    width: 407px;
-                    margin-left: -8px;
-                    margin-top: -16px;
                     border-top-left-radius: 5px;
                     border-top-right-radius: 5px;
                   "
                 >
-                  <h4 class="mt-2 pt-2 ps-2">
+                  <h4 class="m-0 pt-2 ps-2">
                     EATCLEAN: Nên Và Không Nên Ăn Những Thực Phẩm Nào?
                     <i class="bi bi-chat-left-fill"></i>3
                   </h4>
                   <hr
-                    style="color: rgba(0, 0, 0, 0.777); width: 407px"
+                    style="color: rgba(0, 0, 0, 0.777);"
                     class="mb-0"
                   />
                 </div>
@@ -371,7 +357,7 @@
                   Chúng ta luôn chủ động lựa chọn thực phẩm sạch và duy trì lối
                   sống lành mạnh. Vậy chế độ ăn Eat Clean nên và không nên ăn
                   những gì trong thực đơn hằng ngày để cân bằng tháp dinh dưỡng
-                  cho cơ thể? <br /><br />
+                  cho cơ thể? 
                 </p>
               </div>
             </div>
@@ -430,11 +416,11 @@ export default {
   border: 1px solid rgba(0, 0, 0, 0.175);
   border-radius: 10px;
 }
-.nhom5 {
+/* .nhom5 {
   background-color: white;
   width: 415px;
   margin-left: -12px;
-}
+} */
 .nhom2 h4 a:hover {
   color: brown !important;
   text-decoration: underline !important;
