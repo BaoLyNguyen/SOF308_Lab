@@ -17,6 +17,11 @@ import Lab6Bai1 from '../components/Lab6/bai1.vue';
 import Lab6Bai2 from '../components/Lab6/bai2.vue';
 import Lab6Bai3 from '../components/Lab6/bai3.vue';
 import Lab6Bai4 from '../components/Lab6/bai4.vue';
+import Lab7Bai1 from '../components/Lab7/bai1.vue';
+import Lab7Bai2 from '../components/Lab7/bai2.vue';
+import Lab7Bai3 from '../components/Lab7/bai3.vue';
+import Lab7Bai4 from '../components/Lab7/bai4.vue';
+
 const routes = [
     { path: '/', component: HomePage },
     { path: '/lab2/bai1', component: Lab2Bai1 },
@@ -35,6 +40,10 @@ const routes = [
     { path: '/lab6/bai2', component: Lab6Bai2 },
     { path: '/lab6/bai3', component: Lab6Bai3 },
     { path: '/lab6/bai4', component: Lab6Bai4 },
+    { path: '/lab7/bai1', component: Lab7Bai1 },
+    { path: '/lab7/bai2', component: Lab7Bai2 },
+    { path: '/lab7/bai3', component: Lab7Bai3 },
+    { path: '/lab7/bai4', component: Lab7Bai4 },
     {path: '/lab1', component: Lab1PY00011}
 ];
 
